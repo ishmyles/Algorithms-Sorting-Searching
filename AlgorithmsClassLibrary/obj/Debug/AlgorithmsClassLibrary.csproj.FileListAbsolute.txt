@@ -1,0 +1,6 @@
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\AlgorithmsClassLibrary\bin\Debug\AlgorithmsClassLibrary.dll
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\AlgorithmsClassLibrary\bin\Debug\AlgorithmsClassLibrary.pdb
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\AlgorithmsClassLibrary\obj\Debug\AlgorithmsClassLibrary.csprojAssemblyReference.cache
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\AlgorithmsClassLibrary\obj\Debug\AlgorithmsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\AlgorithmsClassLibrary\obj\Debug\AlgorithmsClassLibrary.dll
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\AlgorithmsClassLibrary\obj\Debug\AlgorithmsClassLibrary.pdb

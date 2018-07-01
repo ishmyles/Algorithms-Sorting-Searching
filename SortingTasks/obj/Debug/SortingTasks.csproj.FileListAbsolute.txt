@@ -1,0 +1,10 @@
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\SortingTasks\bin\Debug\SortingTasks.exe.config
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\SortingTasks\bin\Debug\SortingTasks.exe
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\SortingTasks\bin\Debug\SortingTasks.pdb
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\SortingTasks\bin\Debug\AlgorithmsClassLibrary.dll
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\SortingTasks\bin\Debug\AlgorithmsClassLibrary.pdb
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\SortingTasks\obj\Debug\SortingTasks.csprojAssemblyReference.cache
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\SortingTasks\obj\Debug\SortingTasks.csproj.CoreCompileInputs.cache
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\SortingTasks\obj\Debug\SortingTasks.csproj.CopyComplete
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\SortingTasks\obj\Debug\SortingTasks.exe
+C:\Users\ishmyles\Desktop\Algorithms-Sorting\SortingTasks\obj\Debug\SortingTasks.pdb
